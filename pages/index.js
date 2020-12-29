@@ -14,7 +14,7 @@ const Index = ({ posts, title, description, ...props }) => {
     <div className="parallax"></div>
     <Layout pageTitle={title}>
       <div className="floating-text">
-          <h1 className="title">{description}</h1>
+          <h1 className="title" id="resume">{description}</h1>
           <h3 className="description">Stay as long as you'd like.</h3>
           <Button variant="dark"><a href="https://github.com/jokang1005/">GitHub</a></Button>{' '}<Button variant="success"><a href="https://www.linkedin.com/in/joanneleecode/">LinkedIn</a></Button>{' '}<Button variant="outline-info"><a href="https://docs.google.com/document/d/1WB_Zfug6Pb-3-Ot0-Knl99FwnfIZ4XrB7oQyC2OpL3c/edit?usp=sharing">Resume</a></Button>
           

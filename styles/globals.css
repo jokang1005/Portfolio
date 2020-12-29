@@ -19,6 +19,10 @@ a {
  
 }
 
+.head {
+  padding: 50px;
+}
+
 .about {
   font-family: 'Playfair Display', serif;
 }
