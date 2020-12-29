@@ -4,11 +4,11 @@ const About = ({ title, description, ...props }) => {
     return (
         <>
             <Layout pageTitle={`${title} | About`} description={description}>
-                <h1 className="title">Welcome to my blog!</h1>
-
-                <p className="description">{description}</p>
-
-                <p>I am a very exciting person. I know this because I'm followinga very exciting tutorial, and a not-exciting person wouldn't do that.</p>
+                <div className="floating-text">
+                    <h1 className="title">{description}</h1>
+                    <h3 className="description">Stay as long as you'd like.</h3>
+                    <h3 className="profile-links"><a href="https://github.com/jokang1005">GitHub</a></h3>
+                </div>
             </Layout>
         </>
     )

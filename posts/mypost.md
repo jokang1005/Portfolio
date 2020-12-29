@@ -1,10 +1,6 @@
 ---
-title: 'Hello, world!'
-author: 'Cassidy'
+title: 'About'
+author: 'Joanne Lee'
 ---
 
-Humblebrag sartorial man braid ad vice, wolf ramps in cronut proident cold-pressed occupy organic normcore. Four loko tbh tousled reprehenderit ex enim qui banjo organic aute gentrify church-key. Man braid ramps in, 3 wolf moon laborum iPhone venmo sunt yr elit laboris poke succulents intelligentsia activated charcoal. Gentrify messenger bag hot chicken brooklyn. Seitan four loko art party, ut 8-bit live-edge heirloom. Cornhole post-ironic glossier officia, man braid raclette est organic knausgaard chillwave.
-
-- Look at me
-- I am in a list
-- Woo hoo
+I’m a software developer with a background in teaching science. I have experience managing classrooms and communicating with parents and students to help them achieve their goals. I am self-motivated and always looking to learn. It is my goal to be in a role where I can use my tenacious character to bring high-quality applications. 

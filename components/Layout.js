@@ -1,3 +1,4 @@
+
 import Head from 'next/head'
 import Header from './Header'
 
@@ -12,7 +13,7 @@ export default function Layout ({ children, pageTitle, ...props}) {
                 <Header />
                     <div className="content">{children}</div>
             </section>
-            <footer>Built by me!</footer>
+
         </>
     )
 }
