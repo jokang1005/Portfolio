@@ -59,8 +59,8 @@ a {
 
 .layout {
 
-  margin-left: 350px;
-  margin-right: 350px;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 .parallax-2 {
@@ -77,6 +77,10 @@ a {
 .sticky-nav {
   position: sticky;
   top: 0;
+}
+
+.mr-auto {
+  position: sticky;
 }
 
 .parallax-3 {
