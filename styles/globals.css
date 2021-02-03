@@ -134,3 +134,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+Card {
+  margin-top: 50px;
+}
