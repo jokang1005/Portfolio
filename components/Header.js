@@ -14,7 +14,7 @@ export default function Header() {
                     <Nav className="mr-auto">
                     <Nav><a href="#about" className="head">About</a></Nav>
                     <Nav><a href="#projects" className="head">Projects</a></Nav>
-                    <Nav><a href="#resume" className="head">Resume</a></Nav>
+                    <Nav><a href="https://drive.google.com/file/d/1GxKrMylXaVvnQGoXF4AjGolm942hayKz/view?usp=sharing" className="head">Resume</a></Nav>
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
